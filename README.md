@@ -43,7 +43,7 @@ dados_transformados.to_csv('dados_transformados.csv', index=False)
 ```
 
 ---
-Certifique-se de que o arquivo "dados_pacientes.csv" esteja no mesmo diretório ou forneça o caminho completo para o arquivo no código Python.
+### Certifique-se de que o arquivo "dados_pacientes.csv" esteja no mesmo diretório ou forneça o caminho completo para o arquivo no código Python.
 
 O arquivo "dados_transformados.csv" será gerado com os resultados da análise.
 
